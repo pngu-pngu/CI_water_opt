@@ -1,0 +1,8 @@
+﻿state_name,county_cd,county_nm,year,"Total Population total population of area, in thousands","Public Supply population served by groundwater, in thousands","Public Supply population served by surface water, in thousands","Public Supply total population served, in thousands","Public Supply per capita use, in gallons/person/day"
+South Carolina,045,Greenville County,1985,302.9,0,302.1,302.1,-
+South Carolina,045,Greenville County,1990,320.16,0,260.56,260.56,-
+South Carolina,045,Greenville County,1995,339.91,0.48,297.87,298.35,169
+South Carolina,045,Greenville County,2000,379.616,-,-,341.323,-
+South Carolina,045,Greenville County,2005,407.383,1.767,374.519,376.286,176
+South Carolina,045,Greenville County,2010,451.225,1.316,419.322,420.638,86
+South Carolina,045,Greenville County,2015,491.863,0.98,458.307,459.287,100
