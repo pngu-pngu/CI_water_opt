@@ -1,0 +1,31 @@
+Product:               Bias-Corrected GCM data
+Variables:             tas       pr        
+ NetCDF type:          float     float     
+ NetCDF missing value:  1e+20     1e+20     
+Period:                2025Jan through 2030Dec
+Resolution:            1 degree
+Latitude bounds:       (34.0, 36.0)
+Longitude bounds:      (-83.0, -82.0)
+Area within bounds:    20256 km^2 (approx)
+Dimensions:         
+ Times:                72
+ Latitudes:            2
+ Longitudes:           1
+ Projections:          15
+
+ This subset request is based on the specification of a tributary area.
+ For 1 & 2 degree products the resulting area is the defined by the
+ bounding box of the 1/8 degree catchment.  Please see the latitude
+ & longitude bounds, and dimensions above for the spatial extent of
+ 1 & 2 degree products, which is a rectangular area (see Area within
+ bounds).  Please note that this rectangular area may be much larger
+ than that of the 1/8 degree catchment.
+
+Global attributes
+-----------------
+Conventions:           GDT 1.2
+authors:               Bridget Thrasher, Ed Maurer
+description:           Bias-corrected GCM data
+creation_date:         2012
+institution:           Climate Analytics Group, Santa Clara U.
+SurfSgnConvention:     Traditional
